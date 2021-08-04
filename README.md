@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sinkyoungdeok&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinkyoungdeok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🔩 Back-End
 ![Java_8](https://img.shields.io/badge/java8-red?logo=java&logoColor=white)
 ![Java_11](https://img.shields.io/badge/java11-red?logo=java&logoColor=white)
