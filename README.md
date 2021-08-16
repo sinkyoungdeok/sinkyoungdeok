@@ -4,6 +4,9 @@
 ### Portfolio
 [Portfolio Link](https://sinkyoungdeok.github.io/)
 
+### Solved.ac
+![tlsrudejr123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsrudejr123)
+
 ### 🔩 Back-End
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
