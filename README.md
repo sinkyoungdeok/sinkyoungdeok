@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sinkyoungdeok&show_icons=true&theme=radical)
 ![tlsrudejr123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsrudejr123)
 
 
