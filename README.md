@@ -23,6 +23,7 @@
 
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white)
+![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 
 ### 🎨 Front
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
