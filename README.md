@@ -19,7 +19,7 @@
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 
 ![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&message=Thymeleaf&color=005F0F&logo=Thymeleaf&logoColor=FFFFFF&label=)
-![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja&color=B41717&logo=Jinja&logoColor=FFFFFF&label=)
+![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja2&color=B41717&logo=Jinja2&logoColor=FFFFFF&label=)
 
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 ![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=B41717&logo=MAVEN&logoColor=FFFFFF&label=)
