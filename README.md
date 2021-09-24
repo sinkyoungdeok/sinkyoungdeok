@@ -17,6 +17,7 @@
 ![GoFiber](https://img.shields.io/static/v1?style=for-the-badge&message=GoFiber&color=00ADD8&logo=GoFiber&logoColor=FFFFFF&label=)
 
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
+![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![GoTesting](https://img.shields.io/static/v1?style=for-the-badge&message=GoTesting&color=00ADD8&logo=GoTesting&logoColor=FFFFFF&label=)
@@ -37,7 +38,7 @@
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
 
 
-### Front
+### Front-End
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
@@ -76,7 +77,6 @@
 
 
 ### Studying
-![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 ![DDD](https://img.shields.io/static/v1?style=for-the-badge&message=DDD&color=6DB33F&logo=DDD&logoColor=FFFFFF&label=)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
