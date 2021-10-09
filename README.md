@@ -75,10 +75,10 @@
 ### Etc.
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000000&logo=Markdown&logoColor=FFFFFF&label=)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
+![DDD](https://img.shields.io/static/v1?style=for-the-badge&message=DDD&color=6DB33F&logo=DDD&logoColor=FFFFFF&label=)
 
 
 ### Studying
-![DDD](https://img.shields.io/static/v1?style=for-the-badge&message=DDD&color=6DB33F&logo=DDD&logoColor=FFFFFF&label=)
 ![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
 ![Spring Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Cloud&color=6DB33F&logo=Spring+Cloud&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
