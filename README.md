@@ -82,6 +82,11 @@
 
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=569A31&logo=Amazon+EC2&logoColor=FFFFFF&label=)
+![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=569A31&logo=Amazon+RDS&logoColor=FFFFFF&label=)
+![Amazon Beanstalk](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Beanstalk&color=569A31&logo=Amazon+Beanstalk&logoColor=FFFFFF&label=)
+
 
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=232F3E&logo=Redis&logoColor=FFFFFF&label=)
 ![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
