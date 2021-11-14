@@ -1,4 +1,4 @@
-### [Portfolio Link](https://sinkyoungdeok.github.io/)
+### [포트폴리오](https://sinkyoungdeok.github.io/)
 
 ![tlsrudejr123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsrudejr123)
 
