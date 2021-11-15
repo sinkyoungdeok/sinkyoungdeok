@@ -23,7 +23,7 @@
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
-![GoTesting](https://img.shields.io/static/v1?style=for-the-badge&message=GoTesting&color=00ADD8&logo=GoTesting&logoColor=FFFFFF&label=)
+![Mockito](https://img.shields.io/static/v1?style=for-the-badge&message=Mockito&color=25A162&logo=Mockito&logoColor=FFFFFF&label=)
 
 ![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&message=Thymeleaf&color=005F0F&logo=Thymeleaf&logoColor=FFFFFF&label=)
 ![JSP](https://img.shields.io/static/v1?style=for-the-badge&message=JSP&color=6DB33F&logo=JSP&logoColor=FFFFFF&label=)
@@ -34,6 +34,9 @@
 
 
 ## Dev-Ops
+![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=569A31&logo=Amazon+EC2&logoColor=FFFFFF&label=)
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
@@ -83,9 +86,6 @@
 ![Spring Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Cloud&color=6DB33F&logo=Spring+Cloud&logoColor=FFFFFF&label=)
 
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
-![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
-![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
-![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=569A31&logo=Amazon+EC2&logoColor=FFFFFF&label=)
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=569A31&logo=Amazon+RDS&logoColor=FFFFFF&label=)
 ![Amazon Beanstalk](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Beanstalk&color=569A31&logo=Amazon+Beanstalk&logoColor=FFFFFF&label=)
 
