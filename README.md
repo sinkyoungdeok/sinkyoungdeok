@@ -33,7 +33,7 @@
 ![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=B41717&logo=MAVEN&logoColor=FFFFFF&label=)
 
 
-## Devops
+## Dev-Ops
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
