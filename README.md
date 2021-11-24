@@ -96,6 +96,8 @@
 ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 ![Logstash](https://img.shields.io/static/v1?style=for-the-badge&message=Logstash&color=005571&logo=Logstash&logoColor=FFFFFF&label=)
 ![Kibana](https://img.shields.io/static/v1?style=for-the-badge&message=Kibana&color=005571&logo=Kibana&logoColor=FFFFFF&label=)
+![Filebeat](https://img.shields.io/static/v1?style=for-the-badge&message=Filebeat&color=005571&logo=Filebeat&logoColor=FFFFFF&label=)
+![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
 
 
 <!--
