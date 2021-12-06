@@ -21,6 +21,8 @@
 
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
+![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
+![Beautiful+Soup](https://img.shields.io/static/v1?style=for-the-badge&message=Beautiful+Soup&color=43B02A&logo=Beautiful+Soup&logoColor=FFFFFF&label=)
 
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Mockito](https://img.shields.io/static/v1?style=for-the-badge&message=Mockito&color=25A162&logo=Mockito&logoColor=FFFFFF&label=)
