@@ -32,7 +32,6 @@
 ![Jinja](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja2&color=B41717&logo=Jinja2&logoColor=FFFFFF&label=)
 
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
-![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=B41717&logo=MAVEN&logoColor=FFFFFF&label=)
 
 ## 🔑 PS
 ![tlsrudejr123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsrudejr123)
