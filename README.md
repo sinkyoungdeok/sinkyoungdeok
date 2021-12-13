@@ -54,8 +54,8 @@
 ![Filebeat](https://img.shields.io/static/v1?style=for-the-badge&message=Filebeat&color=005571&logo=Filebeat&logoColor=FFFFFF&label=)
 
 ## 📱 App
-![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
+![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
 
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
