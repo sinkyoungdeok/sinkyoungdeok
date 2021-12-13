@@ -91,6 +91,7 @@
 ## ✏ Studying
 ![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
 ![Spring Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Cloud&color=6DB33F&logo=Spring+Cloud&logoColor=FFFFFF&label=)
+![Spring Batch](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Batch&color=6DB33F&logo=Spring+Batch&logoColor=FFFFFF&label=)
 
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=569A31&logo=Amazon+RDS&logoColor=FFFFFF&label=)
