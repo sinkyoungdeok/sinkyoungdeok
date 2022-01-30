@@ -17,12 +17,14 @@
 ![Spring MVC](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+MVC&color=6DB33F&logo=Spring+MVC&logoColor=FFFFFF&label=)
 ![WebFlux](https://img.shields.io/static/v1?style=for-the-badge&message=WebFlux&color=007396&logo=WebFlux&logoColor=FFFFFF&label=)
 ![Spring Data JPA](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
+![Spring Data MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+MongoDB&color=6DB33F&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 ![RxJava](https://img.shields.io/static/v1?style=for-the-badge&message=RxJava&color=007396&logo=RxJava&logoColor=FFFFFF&label=)
+![Mapstruct](https://img.shields.io/static/v1?style=for-the-badge&message=Mapstruct&color=007396&logo=Mapstruct&logoColor=FFFFFF&label=)
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![Beautiful+Soup](https://img.shields.io/static/v1?style=for-the-badge&message=Beautiful+Soup&color=43B02A&logo=Beautiful+Soup&logoColor=FFFFFF&label=)
 
@@ -55,7 +57,7 @@
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 
 
 ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
