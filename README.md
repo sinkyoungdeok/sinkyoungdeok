@@ -23,7 +23,7 @@
 
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
-![RxJava](https://img.shields.io/static/v1?style=for-the-badge&message=RxJava&color=007396&logo=RxJava&logoColor=FFFFFF&label=)
+![Reactor](https://img.shields.io/static/v1?style=for-the-badge&message=Reactor&color=007396&logo=Reactor&logoColor=FFFFFF&label=)
 ![Mapstruct](https://img.shields.io/static/v1?style=for-the-badge&message=Mapstruct&color=007396&logo=Mapstruct&logoColor=FFFFFF&label=)
 ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![Beautiful+Soup](https://img.shields.io/static/v1?style=for-the-badge&message=Beautiful+Soup&color=43B02A&logo=Beautiful+Soup&logoColor=FFFFFF&label=)
