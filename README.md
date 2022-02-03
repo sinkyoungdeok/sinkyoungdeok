@@ -102,6 +102,7 @@
 ![Spring Batch](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Batch&color=6DB33F&logo=Spring+Batch&logoColor=FFFFFF&label=)
 
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+![AWS EKS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EKS&color=326CE5&logo=AWS+EKS&logoColor=FFFFFF&label=)
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=569A31&logo=Amazon+RDS&logoColor=FFFFFF&label=)
 ![Amazon Beanstalk](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Beanstalk&color=569A31&logo=Amazon+Beanstalk&logoColor=FFFFFF&label=)
 
