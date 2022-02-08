@@ -8,7 +8,6 @@
 ## 🖥 Back-End
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=0095D5&logo=Kotlin&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![Spring MVC](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+MVC&color=6DB33F&logo=Spring+MVC&logoColor=FFFFFF&label=)
@@ -34,7 +33,6 @@
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![DataGrip](https://img.shields.io/static/v1?style=for-the-badge&message=DataGrip&color=222222&logo=DataGrip&logoColor=3DDC84&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 
 ## 🔑 PS
@@ -42,9 +40,11 @@
 
 
 ## 🪛 Dev-Ops
-![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=569A31&logo=Amazon+EC2&logoColor=FFFFFF&label=)
-![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
-![Amazon Route53](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Route53&color=569A31&logo=Amazon+Route53&logoColor=FFFFFF&label=)
+![AWS EC2](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EC2&color=569A31&logo=AWS+EC2&logoColor=FFFFFF&label=)
+![AWS S3](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+S3&color=569A31&logo=AWS+S3&logoColor=FFFFFF&label=)
+![AWS Route53](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Route53&color=569A31&logo=AWS+Route53&logoColor=FFFFFF&label=)
+![AWS RDS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+RDS&color=569A31&logo=AWS+RDS&logoColor=FFFFFF&label=)
+![AWS Beanstalk](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Beanstalk&color=569A31&logo=AWS+Beanstalk&logoColor=FFFFFF&label=)
 
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
@@ -77,8 +77,6 @@
 
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![AWS EKS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EKS&color=326CE5&logo=AWS+EKS&logoColor=FFFFFF&label=)
-![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=569A31&logo=Amazon+RDS&logoColor=FFFFFF&label=)
-![Amazon Beanstalk](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Beanstalk&color=569A31&logo=Amazon+Beanstalk&logoColor=FFFFFF&label=)
 
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=232F3E&logo=Redis&logoColor=FFFFFF&label=)
 ![Bamboo](https://img.shields.io/static/v1?style=for-the-badge&message=Bamboo&color=0052CC&logo=Bamboo&logoColor=FFFFFF&label=)
