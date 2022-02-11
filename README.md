@@ -49,6 +49,8 @@
 ![AWS RDS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+RDS&color=569A31&logo=AWS+RDS&logoColor=FFFFFF&label=)
 ![AWS Beanstalk](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Beanstalk&color=569A31&logo=AWS+Beanstalk&logoColor=FFFFFF&label=)
 
+![Bamboo](https://img.shields.io/static/v1?style=for-the-badge&message=Bamboo&color=0052CC&logo=Bamboo&logoColor=FFFFFF&label=)
+
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
@@ -82,7 +84,6 @@
 ![AWS EKS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EKS&color=326CE5&logo=AWS+EKS&logoColor=FFFFFF&label=)
 
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=232F3E&logo=Redis&logoColor=FFFFFF&label=)
-![Bamboo](https://img.shields.io/static/v1?style=for-the-badge&message=Bamboo&color=0052CC&logo=Bamboo&logoColor=FFFFFF&label=)
 
 ![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
 
