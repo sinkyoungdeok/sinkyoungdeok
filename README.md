@@ -9,6 +9,8 @@
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=0095D5&logo=Kotlin&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![Spring MVC](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+MVC&color=6DB33F&logo=Spring+MVC&logoColor=FFFFFF&label=)
@@ -51,6 +53,7 @@
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=232F3E&logo=Redis&logoColor=FFFFFF&label=)
 
 ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 ![Logstash](https://img.shields.io/static/v1?style=for-the-badge&message=Logstash&color=005571&logo=Logstash&logoColor=FFFFFF&label=)
@@ -81,8 +84,6 @@
 
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![AWS EKS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EKS&color=326CE5&logo=AWS+EKS&logoColor=FFFFFF&label=)
-
-![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=232F3E&logo=Redis&logoColor=FFFFFF&label=)
 
 ![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
 
