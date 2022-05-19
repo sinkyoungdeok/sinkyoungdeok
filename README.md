@@ -47,6 +47,7 @@
 ![AWS RDS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+RDS&color=569A31&logo=AWS+RDS&logoColor=FFFFFF&label=)
 ![AWS Beanstalk](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Beanstalk&color=569A31&logo=AWS+Beanstalk&logoColor=FFFFFF&label=)
 
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![Bamboo](https://img.shields.io/static/v1?style=for-the-badge&message=Bamboo&color=0052CC&logo=Bamboo&logoColor=FFFFFF&label=)
 
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
