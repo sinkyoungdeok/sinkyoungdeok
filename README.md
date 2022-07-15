@@ -23,6 +23,9 @@
 ![Reactor](https://img.shields.io/static/v1?style=for-the-badge&message=Reactor&color=007396&logo=Reactor&logoColor=FFFFFF&label=)
 ![Mapstruct](https://img.shields.io/static/v1?style=for-the-badge&message=Mapstruct&color=007396&logo=Mapstruct&logoColor=FFFFFF&label=)
 
+![GRPC](https://img.shields.io/static/v1?style=for-the-badge&message=GRPC&color=00ADD8&logo=GRPC&logoColor=FFFFFF&label=)
+![BUF](https://img.shields.io/static/v1?style=for-the-badge&message=BUF&color=00ADD8&logo=BUF&logoColor=FFFFFF&label=)
+
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Mockito](https://img.shields.io/static/v1?style=for-the-badge&message=Mockito&color=25A162&logo=Mockito&logoColor=FFFFFF&label=)
 
@@ -48,6 +51,7 @@
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
 ![Bamboo](https://img.shields.io/static/v1?style=for-the-badge&message=Bamboo&color=0052CC&logo=Bamboo&logoColor=FFFFFF&label=)
+![ARGO CD](https://img.shields.io/static/v1?style=for-the-badge&message=ARGO+CD&color=D24939&logo=ARGO+CD&logoColor=FFFFFF&label=)
 
 ![Nexus](https://img.shields.io/static/v1?style=for-the-badge&message=Nexus&color=0052CC&logo=Nexus&logoColor=FFFFFF&label=)
 
@@ -81,13 +85,9 @@
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 
 ## ✏ Studying
-![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
-![Spring Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Cloud&color=6DB33F&logo=Spring+Cloud&logoColor=FFFFFF&label=)
-![Spring Batch](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Batch&color=6DB33F&logo=Spring+Batch&logoColor=FFFFFF&label=)
-
 ![AWS EKS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EKS&color=326CE5&logo=AWS+EKS&logoColor=FFFFFF&label=)
 
-![New Relic](https://img.shields.io/static/v1?style=for-the-badge&message=New+Relic&color=008C99&logo=New+Relic&logoColor=FFFFFF&label=)
+
 
 
 <!--
