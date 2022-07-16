@@ -34,6 +34,7 @@
 ![JSP](https://img.shields.io/static/v1?style=for-the-badge&message=JSP&color=6DB33F&logo=JSP&logoColor=FFFFFF&label=)
 
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=6DB33F&logo=Maven&logoColor=FFFFFF&label=)
 
 ![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
 
