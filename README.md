@@ -56,8 +56,6 @@
 ![Bamboo](https://img.shields.io/static/v1?style=for-the-badge&message=Bamboo&color=0052CC&logo=Bamboo&logoColor=FFFFFF&label=)
 ![ARGO CD](https://img.shields.io/static/v1?style=for-the-badge&message=ARGO+CD&color=D24939&logo=ARGO+CD&logoColor=FFFFFF&label=)
 
-![Nexus](https://img.shields.io/static/v1?style=for-the-badge&message=Nexus&color=0052CC&logo=Nexus&logoColor=FFFFFF&label=)
-
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 
