@@ -14,15 +14,12 @@
 ![Spring MVC](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+MVC&color=6DB33F&logo=Spring+MVC&logoColor=FFFFFF&label=)
 ![WebFlux](https://img.shields.io/static/v1?style=for-the-badge&message=WebFlux&color=007396&logo=WebFlux&logoColor=FFFFFF&label=)
 ![Spring Data JPA](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
-![Spring Data MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+MongoDB&color=6DB33F&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
-![DjangoRestFrameWork](https://img.shields.io/static/v1?style=for-the-badge&message=DjangoRestFrameWork&color=092E20&logo=DjangoRestFrameWork&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 
 ![JPA](https://img.shields.io/static/v1?style=for-the-badge&message=JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 ![Reactor](https://img.shields.io/static/v1?style=for-the-badge&message=Reactor&color=007396&logo=Reactor&logoColor=FFFFFF&label=)
-![Mapstruct](https://img.shields.io/static/v1?style=for-the-badge&message=Mapstruct&color=007396&logo=Mapstruct&logoColor=FFFFFF&label=)
 
 ![GRPC](https://img.shields.io/static/v1?style=for-the-badge&message=GRPC&color=00ADD8&logo=GRPC&logoColor=FFFFFF&label=)
 ![BUF](https://img.shields.io/static/v1?style=for-the-badge&message=BUF&color=00ADD8&logo=BUF&logoColor=FFFFFF&label=)
@@ -33,6 +30,7 @@
 
 ![Thymeleaf](https://img.shields.io/static/v1?style=for-the-badge&message=Thymeleaf&color=005F0F&logo=Thymeleaf&logoColor=FFFFFF&label=)
 ![JSP](https://img.shields.io/static/v1?style=for-the-badge&message=JSP&color=6DB33F&logo=JSP&logoColor=FFFFFF&label=)
+![Jinja2](https://img.shields.io/static/v1?style=for-the-badge&message=Jinja2&color=092E20&logo=Jinja2&logoColor=FFFFFF&label=)
 
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 ![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=6DB33F&logo=Maven&logoColor=FFFFFF&label=)
@@ -97,6 +95,7 @@
 ## ✏ Studying
 ![AWS EKS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+EKS&color=326CE5&logo=AWS+EKS&logoColor=FFFFFF&label=)
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
+![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 
 <!--
 **sinkyoungdeok/sinkyoungdeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
