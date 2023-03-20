@@ -24,6 +24,7 @@
 ![GRPC](https://img.shields.io/static/v1?style=for-the-badge&message=GRPC&color=00ADD8&logo=GRPC&logoColor=FFFFFF&label=)
 ![BUF](https://img.shields.io/static/v1?style=for-the-badge&message=BUF&color=00ADD8&logo=BUF&logoColor=FFFFFF&label=)
 
+![KoTest](https://img.shields.io/static/v1?style=for-the-badge&message=KoTest&color=25A162&logo=KoTest&logoColor=FFFFFF&label=)
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Mockito](https://img.shields.io/static/v1?style=for-the-badge&message=Mockito&color=25A162&logo=Mockito&logoColor=FFFFFF&label=)
 ![Go Testify](https://img.shields.io/static/v1?style=for-the-badge&message=Testify&color=00ADD8&logo=Testify&logoColor=FFFFFF&label=)
