@@ -1,5 +1,4 @@
- ## 📌 Portfolio
- - [2023 Version](https://brawny-swordtail-c1c.notion.site/3-2c91cc11b92b4f5d92e0cf5e426c406f)
+ # [포트폴리오 자세히 보러 가기](https://brawny-swordtail-c1c.notion.site/3-2c91cc11b92b4f5d92e0cf5e426c406f)
 
 
 ## 🖥 Back-End
