@@ -82,6 +82,15 @@
 
 ![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
 
+## 📱 Mobile
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=0095D5&logo=Kotlin&logoColor=FFFFFF&label=)
+
+![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
+![Compose UI](https://img.shields.io/static/v1?style=for-the-badge&message=Compose+UI&color=885630&logo=Compose+UI&logoColor=FFFFFF&label=)
+
+![MVVM](https://img.shields.io/static/v1?style=for-the-badge&message=MVVM&color=0095D5&logo=MVVM&logoColor=FFFFFF&label=)
+
 ## 🔑 PS
 ![tlsrudejr123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=tlsrudejr123)
 
