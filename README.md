@@ -34,8 +34,6 @@
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
 ![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=6DB33F&logo=Maven&logoColor=FFFFFF&label=)
 
-![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
-
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![DataGrip](https://img.shields.io/static/v1?style=for-the-badge&message=DataGrip&color=222222&logo=DataGrip&logoColor=3DDC84&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
