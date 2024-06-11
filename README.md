@@ -1,5 +1,3 @@
- # [포트폴리오](https://brawny-swordtail-c1c.notion.site/3-2c91cc11b92b4f5d92e0cf5e426c406f)
-
 
 ## 🖥 Back-End
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
